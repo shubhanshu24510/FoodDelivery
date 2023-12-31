@@ -1,12 +1,12 @@
-package com.vipulasri.jetdelivery.ui.main
+package com.vipulasri.FoodDelivery.ui.main
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.vipulasri.jetdelivery.data.Repository
-import com.vipulasri.jetdelivery.data.Result
-import com.vipulasri.jetdelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.data.Repository
+import com.vipulasri.FoodDelivery.data.Result
+import com.vipulasri.FoodDelivery.network.model.Dashboard
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 

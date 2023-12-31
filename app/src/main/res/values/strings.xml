@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">JetDelivery</string>
+  <string name="app_name">FoodDelivery</string>
   <string name="retry">Retry</string>
   <string name="free_delivery">Free Delivery</string>
   <string name="random_dashboard">Randomize</string>

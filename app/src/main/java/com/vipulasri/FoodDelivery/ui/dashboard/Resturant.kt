@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.dashboard
+package com.vipulasri.FoodDelivery.ui.dashboard
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -17,12 +17,11 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.unit.dp
-import com.vipulasri.jetdelivery.R
-import com.vipulasri.jetdelivery.components.LoadImage
-import com.vipulasri.jetdelivery.components.PrimaryText
-import com.vipulasri.jetdelivery.components.SecondaryText
-import com.vipulasri.jetdelivery.network.model.Dashboard
-import com.vipulasri.jetdelivery.ui.themeTypography
+import com.vipulasri.FoodDelivery.components.LoadImage
+import com.vipulasri.FoodDelivery.components.PrimaryText
+import com.vipulasri.FoodDelivery.components.SecondaryText
+import com.vipulasri.FoodDelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.ui.themeTypography
 
 @Composable
 fun ShowRestaurantElement(item: Dashboard.Item.SubItem) {

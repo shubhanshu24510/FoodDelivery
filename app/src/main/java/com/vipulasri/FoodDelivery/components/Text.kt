@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.components
+package com.vipulasri.FoodDelivery.components
 
 import androidx.compose.material.ContentAlpha
 import androidx.compose.material.LocalContentAlpha

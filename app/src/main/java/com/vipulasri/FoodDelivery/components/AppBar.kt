@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.components
+package com.vipulasri.FoodDelivery.components
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -10,7 +10,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.vipulasri.jetdelivery.R
 
 @Composable
 fun AppTopBar(

@@ -1,7 +1,7 @@
-package com.vipulasri.jetdelivery.data
+package com.vipulasri.FoodDelivery.data
 
-import com.vipulasri.jetdelivery.network.NetworkClient
-import com.vipulasri.jetdelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.network.NetworkClient
+import com.vipulasri.FoodDelivery.network.model.Dashboard
 import java.lang.Exception
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

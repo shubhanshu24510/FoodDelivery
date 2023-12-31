@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.dashboard
+package com.vipulasri.FoodDelivery.ui.dashboard
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
@@ -12,8 +12,8 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.vipulasri.jetdelivery.R
-import com.vipulasri.jetdelivery.components.PrimaryText
+import com.vipulasri.FoodDelivery.R
+import com.vipulasri.FoodDelivery.components.PrimaryText
 
 @Composable
 fun ShowHeader(title: String, hasMore: Boolean) {

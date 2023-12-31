@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery
+package com.vipulasri.FoodDelivery
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui
+package com.vipulasri.FoodDelivery.ui
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.vipulasri.jetdelivery.R
+import com.vipulasri.FoodDelivery.R
 
 private val regular = Font(R.font.nunito_regular)
 private val medium = Font(R.font.nunito_semibold, FontWeight.W600)

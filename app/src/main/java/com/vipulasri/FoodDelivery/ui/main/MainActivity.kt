@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.main
+package com.vipulasri.FoodDelivery.ui.main
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -8,13 +8,12 @@ import androidx.compose.runtime.*
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.ViewModelProvider
-import com.vipulasri.jetdelivery.R
-import com.vipulasri.jetdelivery.components.AppTopBar
-import com.vipulasri.jetdelivery.components.ShowError
-import com.vipulasri.jetdelivery.components.ShowLoading
-import com.vipulasri.jetdelivery.data.Result
-import com.vipulasri.jetdelivery.ui.JetDeliveryTheme
-import com.vipulasri.jetdelivery.ui.dashboard.ShowDashboard
+import com.vipulasri.FoodDelivery.components.AppTopBar
+import com.vipulasri.FoodDelivery.components.ShowError
+import com.vipulasri.FoodDelivery.components.ShowLoading
+import com.vipulasri.FoodDelivery.data.Result
+import com.vipulasri.FoodDelivery.ui.JetDeliveryTheme
+import com.vipulasri.FoodDelivery.ui.dashboard.ShowDashboard
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery
+package com.vipulasri.FoodDelivery
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

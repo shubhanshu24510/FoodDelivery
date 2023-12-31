@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui
+package com.vipulasri.FoodDelivery.ui
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.lightColors

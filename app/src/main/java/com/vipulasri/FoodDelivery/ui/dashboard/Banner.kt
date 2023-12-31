@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.dashboard
+package com.vipulasri.FoodDelivery.ui.dashboard
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -12,8 +12,8 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.vipulasri.jetdelivery.components.LoadImage
-import com.vipulasri.jetdelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.components.LoadImage
+import com.vipulasri.FoodDelivery.network.model.Dashboard
 
 @Composable
 fun ShowBannerElement(item: Dashboard.Item.SubItem) {

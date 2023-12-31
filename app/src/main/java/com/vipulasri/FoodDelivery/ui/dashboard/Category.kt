@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.dashboard
+package com.vipulasri.FoodDelivery.ui.dashboard
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -10,10 +10,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.vipulasri.jetdelivery.components.LoadImage
-import com.vipulasri.jetdelivery.components.PrimaryText
-import com.vipulasri.jetdelivery.components.SecondaryText
-import com.vipulasri.jetdelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.components.LoadImage
+import com.vipulasri.FoodDelivery.components.PrimaryText
+import com.vipulasri.FoodDelivery.components.SecondaryText
+import com.vipulasri.FoodDelivery.network.model.Dashboard
 
 @Composable
 fun ShowCategoryElement(item: Dashboard.Item.SubItem) {

@@ -1,4 +1,4 @@
-package com.vipulasri.jetdelivery.ui.dashboard
+package com.vipulasri.FoodDelivery.ui.dashboard
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -8,11 +8,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.unit.dp
-import com.vipulasri.jetdelivery.R
-import com.vipulasri.jetdelivery.components.ShowVerticalDivider
-import com.vipulasri.jetdelivery.network.model.Dashboard
-import com.vipulasri.jetdelivery.network.model.ItemViewType
-import com.vipulasri.jetdelivery.network.model.SubItemViewType
+import com.vipulasri.FoodDelivery.components.ShowVerticalDivider
+import com.vipulasri.FoodDelivery.network.model.Dashboard
+import com.vipulasri.FoodDelivery.network.model.ItemViewType
+import com.vipulasri.FoodDelivery.network.model.SubItemViewType
 
 @Composable
 fun ShowDashboard(data: List<Dashboard.Item>) {
